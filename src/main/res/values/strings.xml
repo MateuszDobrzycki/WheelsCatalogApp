@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WheelsCatalogApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    -------------------------------------------------------
+    <string name="HOME">Home</string>
+    <string name="USER">Client</string>
+    <string name="PHOTO">Photo</string>
+    <string name="onas">O Nas</string>
+    <string name="Profile">Profile</string>
+    <string name="NameLogo">Wheel</string>
+    <string name="NrUlicy">Numer Ulicy</string>
+    <string name="Ulica">Ulica</string>
+    <string name="Imie">Imię</string>
+    <string name="Nazwisko">Nazwisko</string>
+    <string name="Email">E-mail</string>
+    <string name="NrTel">Nr Telefonu</string>
+    <string name="Kod">Kod Pocztowy</string>
+    <string name="Miasto">Miasto</string>
+    <string name="Opis">Opis</string>
+    <string name="Szerokosc">Szerokość</string>
+    <string name="ET">Osadzenie (ET)</string>
+    <string name="Rozmiar">Rozmiar</string>
+    <string name="Cena">Cena</string>
+    <string name="Nazwa">Nazwa</string>
+    <string name="Rozstaw">Rozstaw</string>
+    <string name="Producent">Producent</string>
+    <string name="Save">Zapisz</string>
+    <string name="Log">Zaloguj Się</string>
+    <string name="Register">Zarejestruj Się</string>
+    <string name="Wrong">.</string>
+    <string name="Nip">NIP</string>
+    <string name="Login">Login</string>
+    <string name="Password">Hasło</string>
+    <string name="RepeatPassword">Powtórz Hasło</string>
+    <string name="Maszkonto">Masz już konto? Zaloguj się!</string>
+    <string name="NieMaszkonta">Nie masz konta? Zarejestruj się!</string>
+    <string name="Logout">Logout</string>
+    <string name="Wybrane">- Wybrane Felgi -</string>
+    <string name="Godziny">- Godziny Otwarcia -</string>
+    <string name="Adres">Łódź 93-005, ul.Wólczańska 215 </string>
+</resources>

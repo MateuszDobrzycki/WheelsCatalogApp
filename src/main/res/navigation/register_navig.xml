@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/register_navig"
+    app:startDestination="@id/loginActivity">
+
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.wheelscatalogapp.LoginActivity"
+        android:label="login_activity"
+        tools:layout="@layout/login_activity" >
+    <action
+        android:id="@+id/action_loginActivity_to_registrationActivity"
+        app:destination="@id/homepage2" />
+    </activity>
+    <activity
+        android:id="@+id/registrationActivity"
+        android:name="com.example.wheelscatalogapp.RegistrationActivity"
+        android:label="RegistrationActivity"
+        tools:layout="@layout/registration_activity"/>
+</navigation>
